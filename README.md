@@ -1,8 +1,9 @@
 
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaRoses&layout=compact&show_icons=true&bg_color=ffffff00&text_color=333333&icon_color=ff6347)
 
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SabrinaRoses&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=default&bg_color=ffffff00&text_color=333333&icon_color=ff6347) ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaRoses&layout=compact&show_icons=true&bg_color=ffffff00&text_color=333333&icon_color=ff6347)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SabrinaRoses&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=default&bg_color=ffffff00&text_color=333333&icon_color=ff6347)   
+ 
 
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=SabrinaRoses&theme=default&background=ffffff00&fire=ff6347&currStreakNum=ff6347&sideNums=333333&sideLabels=333333)
 
